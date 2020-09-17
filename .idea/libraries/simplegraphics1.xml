@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="simplegraphics1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/betateamgame/out/production/BetaTeam1.0/Libs/simplegraphics.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
